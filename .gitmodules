@@ -1,0 +1,3 @@
+[submodule "CriminalIntent"]
+	path = CriminalIntent
+	url = https://github.com/EmmaHelser/CriminalIntent.git
